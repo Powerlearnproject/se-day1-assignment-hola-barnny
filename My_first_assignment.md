@@ -48,6 +48,7 @@ CHALLENGES FACING SOFTWARE ENGINEERS
 4. Integration Issues: Resolving compatibility problems with existing systems.
 5. Performance Optimization: Ensuring efficiency and scalability.
 6. Tight Deadlines: Pressure to meet deadlines can lead to rushed development, potentially compromising software quality.
+   
 STRATEGIES TO OVERCOME THIS CHALLENGES
 1.Adapt to Requirement Changes by using Agile practices and maintaining frequent communication with stakeholders.
 2. Manage Complexity through modular design and regular refactoring of code.
@@ -62,6 +63,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 2. Integration Testing: Testing and verifies interaction between different components, sub-systems or modules work together as expected.
 3. System Testing: Tests the complete software system to ensure it meets all requirements.
 4. Acceptance Testing: Test the software against user requirements and Confirms that the software meets business requirements and is ready for deployment.
+   
 IMPORTANCE:
 1. Unit Testing: Detects early bugs by testing individual components.
 2. Integration Testing: Ensures different components work together correctly.
