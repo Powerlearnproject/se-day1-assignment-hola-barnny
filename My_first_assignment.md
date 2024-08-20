@@ -49,7 +49,6 @@ Importance of Quality Control: Quality control measures such as code reviews, au
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. 
