@@ -72,7 +72,6 @@ IMPORTANCE:
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process of designing and refining the input (or "prompt") given to an AI model, such as a language model, to elicit specific, desired responses. It involves crafting questions, statements, or commands in a way that guides the AI to generate the most accurate, relevant, or useful output.
 
